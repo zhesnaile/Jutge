@@ -1,0 +1,65 @@
+lee_album SinFotos 0
+imprime_album_en_curso
+agrega_album
+imprime_coleccion
+elimina_album SinFotos
+lee_album Paris 5
+img11 15 8 2019 0
+img12 15 8 2019 2 Juan Laura
+img13 15 6 2019 1 Laura
+img14 15 8 2019 2 Juan ChampsElysees
+img23 16 8 2019 3 Laura Juan TorreEiffel
+imprime_album_en_curso
+agrega_foto img9 14 8 2019 2 Laura TorreEiffel
+agrega_foto img23 16 8 2019 2 Juan TorreEiffel
+imprime_album_en_curso
+elimina_foto img21
+elimina_foto img11
+imprime_album_en_curso
+obten_foto img13
+obten_foto img42
+nr_fotos
+agrega_album
+agrega_album
+imprime_album_en_curso
+lee_album ALL 1
+img42 20 10 2019 0
+agrega_album
+imprime_album_en_curso
+lee_album Paris 1
+img42 20 10 2019 0
+agrega_album
+imprime_album_en_curso
+lee_album Londres 4
+img42 20 10 2019 0
+img43 20 10 2019 0
+img13 15 6 2019 2 LondonEye Westminster
+img11 15 8 2019 0
+obten_album Londres
+elimina_album Londres
+imprime_album_en_curso
+agrega_album
+nr_albums
+lista_albumes
+obten_album Paris
+imprime_album_en_curso
+obten_album Londres
+imprime_album_en_curso
+elimina_album Londres
+nr_albums
+lista_albumes
+imprime_album_en_curso
+agrega_album
+imprime_coleccion
+agrega_foto_coleccion img42 21 10 2019 0
+agrega_foto_coleccion img24 21 10 2019 0
+imprime_coleccion
+elimina_foto_coleccion img11
+elimina_foto_coleccion img24
+elimina_foto_coleccion img77
+modifica_foto_coleccion img51 20 10 2019 0
+modifica_foto_coleccion img13 15 6 2019 2 LondonEye Westminster
+albumes_foto img51
+albumes_foto img13
+imprime_coleccion
+acabar

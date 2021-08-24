@@ -1,0 +1,221 @@
+# lee_album SinFotos ...
+Album SinFotos leido.
+# imprime_album_en_curso
+SinFotos
+# agrega_album
+Album en curso agregado a la coleccion.
+Album en curso, después de agregar:
+SinFotos
+# imprime_coleccion
+ALL
+SinFotos
+# elimina_album SinFotos
+Album eliminado de la coleccion.
+# lee_album Paris ...
+Album Paris leido.
+# imprime_album_en_curso
+Paris
+  img11 15/8/2019 0
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+# agrega_foto img9 ...
+Foto img9 agregada al album en curso.
+# agrega_foto img23 ...
+El album en curso ya contiene una foto con el identificador img23
+# imprime_album_en_curso
+Paris
+  img11 15/8/2019 0
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img9 14/8/2019 2 Laura TorreEiffel
+# elimina_foto img21
+El album en curso no contiene una foto con el identificador img21
+# elimina_foto img11
+Foto img11 eliminada del album en curso.
+# imprime_album_en_curso
+Paris
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img9 14/8/2019 2 Laura TorreEiffel
+# obten_foto img13
+img13 15/6/2019 1 Laura
+# obten_foto img42
+El album en curso no contiene una foto con el identificador img42
+# nr_fotos
+5
+# agrega_album
+Album en curso agregado a la coleccion.
+Album en curso, después de agregar:
+Paris
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img9 14/8/2019 2 Laura TorreEiffel
+# agrega_album
+Identificador de album incorrecto. No se puede agregar.
+# imprime_album_en_curso
+Paris
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img9 14/8/2019 2 Laura TorreEiffel
+# lee_album ALL ...
+Album ALL leido.
+# agrega_album
+Identificador de album incorrecto. No se puede agregar.
+# imprime_album_en_curso
+ALL
+  img42 20/10/2019 0
+# lee_album Paris ...
+Album Paris leido.
+# agrega_album
+Identificador de album incorrecto. No se puede agregar.
+# imprime_album_en_curso
+Paris
+  img42 20/10/2019 0
+# lee_album Londres ...
+Album Londres leido.
+# obten_album Londres
+No existe un album con el id dado.
+# elimina_album Londres
+Identificador de album incorrecto. No se puede eliminar.
+# imprime_album_en_curso
+Londres
+  img13 15/6/2019 2 LondonEye Westminster
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+# agrega_album
+Album en curso agregado a la coleccion.
+Album en curso, después de agregar:
+Londres
+  img13 15/6/2019 1 Laura
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+# nr_albums
+3
+# lista_albumes
+ALL Londres Paris
+# obten_album Paris
+Paris
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img9 14/8/2019 2 Laura TorreEiffel
+# imprime_album_en_curso
+Paris
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img9 14/8/2019 2 Laura TorreEiffel
+# obten_album Londres
+Londres
+  img13 15/6/2019 1 Laura
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+# imprime_album_en_curso
+Londres
+  img13 15/6/2019 1 Laura
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+# elimina_album Londres
+Album eliminado de la coleccion.
+# nr_albums
+2
+# lista_albumes
+ALL Paris
+# imprime_album_en_curso
+Londres
+  img13 15/6/2019 1 Laura
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+# agrega_album
+Album en curso agregado a la coleccion.
+Album en curso, después de agregar:
+Londres
+  img13 15/6/2019 1 Laura
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+# imprime_coleccion
+ALL
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+  img9 14/8/2019 2 Laura TorreEiffel
+Londres
+  img13 15/6/2019 1 Laura
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+Paris
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img9 14/8/2019 2 Laura TorreEiffel
+# agrega_foto_coleccion img42 ...
+Ya existe una foto con el mismo id. No se puede agregar.
+# agrega_foto_coleccion img24 ...
+Foto img24 agregada a la coleccion.
+# imprime_coleccion
+ALL
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img24 21/10/2019 0
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+  img9 14/8/2019 2 Laura TorreEiffel
+Londres
+  img13 15/6/2019 1 Laura
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+Paris
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 1 Laura
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img9 14/8/2019 2 Laura TorreEiffel
+# elimina_foto_coleccion img11
+No existe una foto con el id dado. No se puede eliminar.
+# elimina_foto_coleccion img24
+Foto img24 eliminada de la coleccion.
+# modifica_foto_coleccion img51 ...
+No existe una foto con el id dado. No se puede modificar.
+# modifica_foto_coleccion img13 ...
+Foto img13 modificada en la coleccion.
+# albumes_foto img51
+No existe una foto con el id dado.
+# albumes_foto img13
+ALL Londres Paris
+# imprime_coleccion
+ALL
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 2 LondonEye Westminster
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+  img9 14/8/2019 2 Laura TorreEiffel
+Londres
+  img13 15/6/2019 2 LondonEye Westminster
+  img42 20/10/2019 0
+  img43 20/10/2019 0
+Paris
+  img12 15/8/2019 2 Juan Laura
+  img13 15/6/2019 2 LondonEye Westminster
+  img14 15/8/2019 2 ChampsElysees Juan
+  img23 16/8/2019 3 Juan Laura TorreEiffel
+  img9 14/8/2019 2 Laura TorreEiffel

@@ -1,0 +1,26 @@
+﻿En breve volveremos a abrir el problema X35616 del Jutge para que podáis
+hacer entregas intermedias aquellos de vosotros que no hayáis podido hacer
+la entrega dentro de plazo, pero así podréis probar vuestros programas.
+
+Dentro de unos pocos días se abrirá en el Jutge un nuevo
+problema para hacer entregas provisionales del práctica, con un juego
+de pruebas público y privados definitivos. La
+entrega es "provisional" porque no será necesario, hasta muy al final,
+entregar, además de todos los archivos .cc, .hh y Makefile, los
+ficheros de la documentación generada con Doxyfile y el juego de pruebas
+preparado por cada equipo de cara a la nota de competencia transversal.
+Daremos instrucciones más detalladas más adelante.
+
+Este archivo .zip contiene, además de este fichero de texto:
+
+1) un juego de pruebas público (sample.inp/sample.cor) para la entrega
+final; contiene algunos pocos ejemplos de las operaciones de búsqueda
+(buscar_por_fecha y buscar_por_etiqueta), así como de consultas
+booleanas.
+
+2) un fichero ConsultaBool_IO.cc.txt, donde encontraréis una
+implementación prácticamente completa de la función que permite
+leer una consulta booleana como secuencia de strings
+(entre BEGIN_QUERY y END_QUERY) y crea el árbol bianrio que representa a
+la expresión. El fichero contiene comentarios detallados de cómo adaptar el
+código a vuestras necesidades y utilizarlo.
